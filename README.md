@@ -72,7 +72,7 @@ node app.js
 
 or:
 
-nodemmon.js
+nodemon app.js
 
 ```
 
