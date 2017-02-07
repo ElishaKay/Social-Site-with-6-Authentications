@@ -56,7 +56,7 @@ The easiest way to get started is to clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/ElishaKay/LinkedIn-and-Google-User-Login
+git clone https://github.com/ElishaKay/Social-Site-with-6-Authentications.git
 
 # Change directory
 cd myproject
@@ -68,7 +68,12 @@ npm install
 yarn install
 
 # Then simply start your app
-node app.js
+node app.js 
+
+or:
+
+nodemmon.js
+
 ```
 
 **Note:** I highly recommend installing [Nodemon](https://github.com/remy/nodemon).
